@@ -1,4 +1,4 @@
-package celsiutoFahren
+package main
 
 import "fmt"
 
