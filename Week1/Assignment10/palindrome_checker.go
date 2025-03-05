@@ -25,7 +25,7 @@ func main() {
 	fmt.Print("Enter number to check if it is Palindrome or not:")
 	fmt.Scan(&number)
 
-	fmt.Printf("For the given number %d, Palindrome Checker is %t\n", number, palindromeChecker(number))
+	fmt.Printf("For the given number %s, Palindrome Checker is %t\n", number, palindromeChecker(number))
 
 
 }
